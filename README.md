@@ -1,14 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-Hello World demonstration written in Java 
+This a Payout Calculation Program written in Java. This calculates the pay of employees of a company according to the hours from the user input. If no employees found in the file, it will create a record then calculate the pay accordingly.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
