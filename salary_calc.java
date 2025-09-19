@@ -29,6 +29,8 @@ class Person {
 }
 
 
+
+
 public class salary_calc {
 
     //Methods
